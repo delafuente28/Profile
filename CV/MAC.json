@@ -24,6 +24,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/joseantoniodelafuentebrando"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/delafuente28"
       }
     ]
   },
@@ -348,6 +352,10 @@
         {
           "URL": "https://linkedin.com/in/joseantoniodelafuentebrando",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/delafuente28",
+          "type": "github"
         }
       ],
       "contactMails": [
