@@ -311,6 +311,20 @@
         "finishDate": "2015-01-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certificación PMF (Project Management Foundations)",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "EIGP, Escuela Internacional de Gestión de Proyectos",
+          "URL": "https://campus.eigp.net/badges_sellos/94fee470b43270a912c27d56c27b3211/d09d21bbc08795d8e110ff16bc6ec136/97ea3cfb64eeaa1edba65501d0bb3c86",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/1d5a774f-d5a1-4663-b063-13d65bb9edb9_4017200789.jpg",
+            "alt": "4017200789.jpg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master in Informatics Engineering (Part-Time)",
