@@ -1,0 +1,428 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jose",
+      "surnames": "Antonio de la Fuente Brando",
+      "title": "Software Engineer & Scrum Master at Hitachi Rail | .NET | C# |",
+      "description": "Software Engineer with several years of experience, specialized in Microsoft technologies and certified Scrum Master. Willing to face new challenges and continually improve development tools and processes.\n\nCurrently I am trying to orient my career towards project management, taking advantage of my experience in team coordination, strategic planning and agile methodologies to lead successful technological projects.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/5ad0b2ef-2bdf-483e-b9a8-a9e89246b4e9_linkedin-photo-16319.linkedin-photo-16319",
+        "alt": "24/06/23/5ad0b2ef-2bdf-483e-b9a8-a9e89246b4e9_linkedin-photo-16319.linkedin-photo-16319"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
+        "country": "España",
+        "region": "Community of Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/joseantoniodelafuentebrando"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Hitachi Rail",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/e94c8756-ce90-4d4d-a673-dda483db7fc2_linkedin-photo-16319.linkedin-photo-16319",
+            "alt": "24/06/23/e94c8756-ce90-4d4d-a673-dda483db7fc2_linkedin-photo-16319.linkedin-photo-16319"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer & Scrum Master",
+            "startDate": "2024-06-01",
+            "challenges": [
+              {
+                "description": "As a Scrum Master of two software development teams, I ensure activity management. In the planning phase, I define the software development plan along with the technical risks identification and mitigation plans. During execution phase, I ensure overall engineering management through coordination of the software developers with daily meetings and support to the team to comply with project milestones.\n\nAdditionally, I share part of my time in one of the teams as a Software Engineer. We are developing a new software tool based on C#, WPF and .NET 8 that allows the company to accelerate the creation and delivery of new railway signaling projects."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Thales España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/5c12a0d8-c878-44f5-8b2e-ff014846b7af_linkedin-photo-16319.linkedin-photo-16319",
+            "alt": "24/06/23/5c12a0d8-c878-44f5-8b2e-ff014846b7af_linkedin-photo-16319.linkedin-photo-16319"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer & Scrum Master",
+            "startDate": "2021-05-01",
+            "finishDate": "2024-06-30",
+            "challenges": [
+              {
+                "description": "As a Scrum Master of two software development teams, I ensure activity management. In the planning phase, I define the software development plan along with the technical risks identification and mitigation plans. During execution phase, I ensure overall engineering management through coordination of the software developers with daily meetings and support to the team to comply with project milestones.\n\nAdditionally, I share part of my time in one of the teams as a Software Engineer. We are developing a new software tool based on C#, WPF and .NET 8 that allows the company to accelerate the creation and delivery of new railway signaling projects."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Exceltic",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/a199e6e0-00c9-4b16-89d0-fcb04784e2d3_linkedin-photo-16319.linkedin-photo-16319",
+            "alt": "24/06/23/a199e6e0-00c9-4b16-89d0-fcb04784e2d3_linkedin-photo-16319.linkedin-photo-16319"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2018-07-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "*Thales España (September 2019 - may 2021)\n\nAnalysis and definition of software requirements, development and testing of new functionality for the data preparation tool of interlocking systems.\n\n*Thales Programas (July 2018 - August 2019):\n\nFIS-HE. Command & Control software development and integration.\n\nDevelopment of different modules using WPF, C#, XAML, Intellimap, relational database SQL Server. Version control and continuous integration with TFS. Requirements management with IBM Rational DOORS and work methodology with SCRUM."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Avanade",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/e2d80842-5966-4791-a3f8-b9f922f1d71d_linkedin-photo-16319.linkedin-photo-16319",
+            "alt": "24/06/23/e2d80842-5966-4791-a3f8-b9f922f1d71d_linkedin-photo-16319.linkedin-photo-16319"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2015-11-01",
+            "finishDate": "2018-06-30",
+            "challenges": [
+              {
+                "description": "*Airbus Defence & Space:\n- Software Engineer in Mission System for Airbus A330 MRTT military aircraft.\n- Software Engineer in Mission System for Airbus A400M military aircraft.\n\nDevelopment of different modules using WPF, C#, XAML, NHibernate, Entity Framework, XML, XSD, JSON, GIS, Prism, dependency injection, relational databases (Oracle SQL Developer, SQL Server). Version control and continuous integration with TFS. Requirements management with IBM Rational DOORS and work methodology with SCRUM. Running LTR tests (Laboratory Test Request)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MetaEnlace Sistemas de Información",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/ab8e8592-0234-4f88-aca4-09d19ca71495_linkedin-photo-16319.linkedin-photo-16319",
+            "alt": "24/06/23/ab8e8592-0234-4f88-aca4-09d19ca71495_linkedin-photo-16319.linkedin-photo-16319"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2014-12-01",
+            "finishDate": "2015-09-30",
+            "challenges": [
+              {
+                "description": "*Education Ministry of Murcia. Web applications development based on Java, Angular JS, Node JS, Spring, SQL, Maven, Ibatis, Bootstrap, Jenkins, Git and Github.\n\n*Hero Spain. Web applications and templates development based on Drupal, PHP, CSS y HTML.\n\n*Aqualogy Murcia. Software requirements specification, console, web applications and Windows services design and development based on VB.NET, ASP.NET, DevExpress Framework and SQL Server database.\n\n*AMC Group Murcia. WPF and web applications development based on ASP.NET MVC, C#, XAML and Informix database."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "London Iranian Film Festival",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/c706f4ba-db3d-4fa9-aab0-86600f3f9821_linkedin-photo-16319.linkedin-photo-16319",
+            "alt": "24/06/23/c706f4ba-db3d-4fa9-aab0-86600f3f9821_linkedin-photo-16319.linkedin-photo-16319"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2011-04-01",
+            "finishDate": "2011-06-30",
+            "challenges": [
+              {
+                "description": "Web developer of http://www.ukiff.org.uk. Joomla, PHP, HTML, CSS."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Entity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Joomla",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LinQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MVVM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VB.NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WPF",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XAML",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor’s Degree in Computer Science and Engineering, Computer Science",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "UCAM Universidad Católica San Antonio de Murcia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/896f298d-dc58-431d-b71e-8793932778f2_linkedin-photo-16319.linkedin-photo-16319",
+            "alt": "24/06/23/896f298d-dc58-431d-b71e-8793932778f2_linkedin-photo-16319.linkedin-photo-16319"
+          }
+        },
+        "finishDate": "2015-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in Informatics Engineering (Part-Time)",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/3e52f0df-e554-4011-b00d-18e0735d7656_linkedin-photo-16319.linkedin-photo-16319",
+            "alt": "24/06/23/3e52f0df-e554-4011-b00d-18e0735d7656_linkedin-photo-16319.linkedin-photo-16319"
+          }
+        },
+        "finishDate": "2022-07-31"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/joseantoniodelafuentebrando",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "delafuente.brando@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Java",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Engineering Management",
+        "IT Manager",
+        "Scrum Master & Agile Coach",
+        "Tech Lead"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": ".Net Core",
+        "type": "technology"
+      },
+      {
+        "name": "C#",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Actualmente soy Scrum Master de dos equipos del departamento, uno de ellos formado por tres personas. La otra parte de mi tiempo lo dedico a ser el coordinador del otro equipo y desarrollador software de un proyecto estratégico para la compañía, con reuniones con la dirección en las que trato de explicar mi visión, exponer el roadmap y el trabajo llevado a cabo en cada sprint.\n\nPor tanto, creo que mi trabajo ideal podría estar más orientado a gestionar equipos de ingeniera, siempre centrado en el aprendizaje y crecimiento continuo. Intentando crear valor tanto para las personas como para la compañía."
+  }
+}
