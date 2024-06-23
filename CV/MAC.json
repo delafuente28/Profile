@@ -323,6 +323,20 @@
           }
         },
         "finishDate": "2022-07-31"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scrum Master",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "Scrum Manager",
+          "URL": "https://scrummanager.com/website/c/profile/member.php?id=13193",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/06e7d178-df54-4282-bee1-986cb8324a8b_logo.png",
+            "alt": "logo.png"
+          }
+        }
       }
     ],
     "softSkills": [
