@@ -405,6 +405,10 @@
           "type": "technology"
         },
         {
+          "name": "ASP.net",
+          "type": "technology"
+        },
+        {
           "name": "AWS",
           "type": "technology"
         },
