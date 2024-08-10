@@ -439,6 +439,10 @@
         {
           "name": "Python",
           "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
