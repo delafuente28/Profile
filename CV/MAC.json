@@ -425,6 +425,10 @@
           "type": "technology"
         },
         {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
           "name": "Microsoft",
           "type": "technology"
         },
