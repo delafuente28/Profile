@@ -36,6 +36,10 @@
       {
         "organization": {
           "name": "Cipherbit",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/04/21/82001156-e9ee-4b93-800a-76015cba06f0_cipherbit.jpg",
+            "alt": "cipherbit.jpg"
+          },
           "URL": "https://grupooesia.com/cipherbit/"
         },
         "roles": [
