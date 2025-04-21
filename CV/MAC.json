@@ -35,6 +35,41 @@
     "jobs": [
       {
         "organization": {
+          "name": "Cipherbit",
+          "URL": "https://grupooesia.com/cipherbit/"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead",
+            "startDate": "2024-11-01",
+            "challenges": [
+              {
+                "description": "• Technical Leadership & Mentorship: Provide guidance to the development team, ensuring adherence to the best practices and code quality.\n• Requirements Engineering & Documentation: Define and document customer requirements, as well as functional and non-functional requirements in System Subsystem Specification (SSS) ensuring alignment with business needs.\n• Software Development: Implementation solutions for software systems using C++ and Visual Studio Code."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Hitachi Rail",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/e94c8756-ce90-4d4d-a673-dda483db7fc2_linkedin-photo-16319.linkedin-photo-16319",
