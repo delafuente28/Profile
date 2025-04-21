@@ -84,9 +84,32 @@
           {
             "name": "Software Engineer & Scrum Master",
             "startDate": "2024-06-01",
+            "finishDate": "2024-11-01",
             "challenges": [
               {
                 "description": "As a Scrum Master of two software development teams, I ensure activity management. In the planning phase, I define the software development plan along with the technical risks identification and mitigation plans. During execution phase, I ensure overall engineering management through coordination of the software developers with daily meetings and support to the team to comply with project milestones.\n\nAdditionally, I share part of my time in one of the teams as a Software Engineer. We are developing a new software tool based on C#, WPF and .NET 8 that allows the company to accelerate the creation and delivery of new railway signaling projects."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "WPF",
+                "type": "technology"
               }
             ]
           }
